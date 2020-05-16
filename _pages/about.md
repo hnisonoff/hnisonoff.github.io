@@ -1,6 +1,5 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 <p align="center">
-  <img src="https://hnisonoff.github.io/files/headshot.jpeg?raw=true" alt="Photo" style="width: 450px;"/> 
+  <img src="https://hnisonoff.github.io/files/headshot.jpeg?raw=true" alt="Photo" style="height: 450px;"/> 
 </p>
 
 # About Me
