@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Hunter Nisonoff"
 title_separator          : "-"
 name                     : &name "Hunter Nisonoff"
-description              : &description "personal description"
+description              : &description "PhD Student in Computational Biology at UC Berkeley, working on machine learning for protein design and drug discovery."
 url                      : https://hnisonoff.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "hnisonoff/hnisonoff.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Hunter Nisonoff"
   avatar           : "headshot_lowres.jpg"
-  bio              : "PhD Student"
+  bio              : "PhD Student in Computational Biology at UC Berkeley"
   location         : "Berkeley, CA"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=HZCw1mQAAAAJ&hl=en&oi=ao"
@@ -100,7 +100,7 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         :
+  linkedin         : "hunter-nisonoff"
   pinterest        :
   soundcloud       :
   steam            :
