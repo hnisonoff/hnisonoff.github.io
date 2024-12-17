@@ -16,9 +16,9 @@ I am a PhD student in [Computational Biology](https://ccb.berkeley.edu) at Unive
 
 ## Background
 
-Prior to Berkeley, I worked at [D. E. Shaw Research](https://www.deshawresearch.com) where I conducted research on machine learning-based approaches for designing small molecules. I developed methods to facilitate drug discovery by creating better representations of chemical space and improving molecular optimization techniques.
+Prior to Berkeley, I worked at [D. E. Shaw Research](https://www.deshawresearch.com) where I conducted drug discovery research using long-timescale molecular dynamics simulations and machine learning.
 
-I obtained my B.S. in Mathematics from Duke University, where I worked with [Bruce Donald](https://users.cs.duke.edu/~brd/home.html) on improved algorithms for computational structure-based protein design. My undergraduate research focused on developing efficient algorithms for partition function estimation in protein design.
+I obtained my B.S. in Mathematics from Duke University, where I worked with [Bruce Donald](https://users.cs.duke.edu/~brd/home.html) on improved algorithms for computational structure-based protein design. 
 
 ## Recent Work
 
