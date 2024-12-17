@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 <!-- <p align="center"> -->
-<!--   <img src="https://hnisonoff.github.io/files/headshot.jpeg?raw=true" alt="Photo" style="height: 450px;"/>  -->
+<!--   <img src="https://hnisonoff.github.io/files/headshot_v2.jpg?raw=true" alt="Photo" style="height: 450px;"/>  -->
 <!-- </p> -->
 
 # About Me
