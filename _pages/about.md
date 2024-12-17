@@ -12,6 +12,10 @@ redirect_from:
 
 # About Me
 
+<div style="float: right; margin-left: 20px; margin-bottom: 10px;">
+    <img src="/images/protein.gif" alt="Protein Animation" style="width: 300px; border-radius: 5px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+</div>
+
 I am a PhD student in [Computational Biology](https://ccb.berkeley.edu) at University of California, Berkeley, advised by [Jennifer Listgarten](http://www.jennifer.listgarten.com) and a member of the Berkeley Artificial Intelligence Research Lab [(BAIR)](https://bair.berkeley.edu). My research focuses on developing machine learning methods for protein design and drug discovery, with a particular emphasis on combining biophysics-based knowledge with modern deep learning approaches.
 
 ## Background
