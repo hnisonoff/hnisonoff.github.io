@@ -85,7 +85,6 @@ author:
   bio              : "PhD Student in Computational Biology at UC Berkeley"
   location         : "Berkeley, CA"
   employer         :
-  extra_bio       : '<div style="margin-top: 20px;"><img src="/images/protein.gif" alt="Protein Animation" style="width: 100%; border-radius: 5px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"></div>'
   googlescholar    : "https://scholar.google.com/citations?user=HZCw1mQAAAAJ&hl=en&oi=ao"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
