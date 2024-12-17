@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Hunter Nisonoff"
-  avatar           : "headshot_lowres.jpg"
+  avatar           : "headshot_v2.jpg"
   bio              : "PhD Student in Computational Biology at UC Berkeley"
   location         : "Berkeley, CA"
   employer         :
@@ -100,7 +100,7 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/hunter-nisonoff-69b0a17b"
+  linkedin         : "hunter-nisonoff-69b0a17b"
   pinterest        :
   soundcloud       :
   steam            :
