@@ -27,3 +27,4 @@ My recent work includes:
 - Creating approaches for coherent blending of biophysics-based knowledge with Bayesian neural networks
 - Contributing to projects on RNA language models and protein fitness prediction
 
+You can find my CV [here](/files/hmn_cv.pdf).
